@@ -42,6 +42,7 @@ void loop() {
 
     // TODO 7:
     // If touch detected (HIGH)
+
     if (touchState == HIGH) {
         Serial.println("Touch Detected");
     } else {
