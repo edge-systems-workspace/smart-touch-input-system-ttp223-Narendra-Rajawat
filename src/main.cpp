@@ -29,6 +29,7 @@ void setup() {
 
     // TODO 5:
     // Print system initialization message
+
     Serial.println("TTP223 Touch Sensor Initialized");
 }
 
