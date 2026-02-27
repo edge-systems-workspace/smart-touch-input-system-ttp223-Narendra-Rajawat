@@ -12,6 +12,7 @@
 
 // TODO 2:
 // Create variable to store touch state
+
 int touchState = 0;
 
 void setup() {
