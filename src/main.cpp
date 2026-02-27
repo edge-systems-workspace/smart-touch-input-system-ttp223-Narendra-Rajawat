@@ -24,6 +24,7 @@ void setup() {
 
     // TODO 4:
     // Configure touch pin as INPUT
+
     pinMode(TOUCH_PIN, INPUT);
 
     // TODO 5:
