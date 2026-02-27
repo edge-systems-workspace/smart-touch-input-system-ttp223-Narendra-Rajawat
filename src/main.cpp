@@ -37,6 +37,7 @@ void loop() {
 
     // TODO 6:
     // Read digital value from touch sensor
+
     touchState = digitalRead(TOUCH_PIN);
 
     // TODO 7:
